@@ -1,1 +1,1 @@
-![1](https://raw.githubusercontent.com/shrinivas93/shrinivas93/recursion/1.png)
+![2](https://raw.githubusercontent.com/shrinivas93/shrinivas93/recursion/2.png)
